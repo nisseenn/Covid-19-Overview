@@ -1,0 +1,10 @@
+Norway,NOR,"Apr5, 2020",0,31
+Norway,NOR,"Apr6, 2020",0,31
+Norway,NOR,"Apr7, 2020",5755,31
+Norway,NOR,"Apr8, 2020",5863,32
+Norway,NOR,"Apr9, 2020",6010,33
+Norway,NOR,"Apr10, 2020",6010,33
+Sweden,SWE,"Apr7, 2020",1000,31
+Sweden,SWE,"Apr8, 2020",3000,32
+Denmark,DEN,"Apr7, 2020",6969,32
+Denmark,DEN,"Apr8, 2020",8000,32
