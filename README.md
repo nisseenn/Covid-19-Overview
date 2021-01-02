@@ -14,8 +14,8 @@
 ## Create regions
 ![region](https://user-images.githubusercontent.com/20997734/103455336-7393f000-4cec-11eb-81a5-66fb7661d9b9.png)
 
-##View data from the regions
+## View data from the regions
 ![region_okning](https://user-images.githubusercontent.com/20997734/103455344-80184880-4cec-11eb-83b0-ebc8a1521b21.png)
 
-##Choose specific dates
+## Choose specific dates
 ![dates](https://user-images.githubusercontent.com/20997734/103455350-90302800-4cec-11eb-9abf-ab21799bb942.png)
